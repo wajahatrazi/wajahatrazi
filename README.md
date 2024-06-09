@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Wajahat Razi, a passionate DevOps Engineer with a keen interest in Cloud Computing and Automation. I have a diverse background in IT, from Network Operations to open-source contributions, and I thrive on tackling challenging assignments and discovering innovative solutions.
+I am Wajahat Razi, an aspiring DevOps Engineer looking forward to explore the world of Cloud and Automation. I have a diverse background in IT, from Network Operations to open-source contributions, and I thrive on tackling challenging assignments and discovering innovative solutions.
 
 📫 How to reach me:
 Email: wajahat37@gmail.com
