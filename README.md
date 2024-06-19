@@ -1,7 +1,7 @@
--->
+
 # Hi there 👋, I'm Wajahat Razi!
 
-I am currently working as a Network Design Engineer specializing in SONiC (Software for Open Networking in the Cloud) at xFlow Research Inc. I have an aptitude for DevOps and Automation, which have become the backbone of modern infrastructure. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive on solving challenging problems and continuously learning new technologies.
+Currently, working as a Network Design Engineer SONiC (Software for Open Networking in the Cloud) at xFlow Research Inc. I have an aptitude for DevOps and Automation, which have become the backbone of modern infrastructure. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive on solving challenging problems and continuously learning new technologies.
 
 - 🔭 I’m currently working on SONiC (https://github.com/sonic-net)
 - 🌱 I’m currently learning Docker Engine, Kubernetes, Terraform, Ansible, Jenkins, GitHub Action, and AWS
