@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Wajahat Razi!
 
 - Currently working as a Network Design Engineer (SONiC - Software for Open Networking in the Cloud) at xFlow Research Inc. 
-- Aptitude & interest in DevOps & Automation as to me it has evolved as the backbone of the modern infrastructure. 
+- Aptitude & interest in DevOps & Automation as it has evolved as the backbone of the modern infrastructure. 
 - 2+ years of diverse experience ranging from NetOps to open-source contributions, I thrive on solving challenging problems and continuously learning new technologies. 
 
-- 🔭 I’m currently working on SONiC (https://github.com/sonic-net)
-- 🌱 I’m currently learning Docker Engine, Kubernetes, Terraform, Ansible, Jenkins, GitHub Action, and AWS
-- ⚡ Fun fact: Musician (I play drums & guitars)
-- ⚡ Fun fact: Former Football player (Centre Middle Fielder) 
-- ⚡ Fun fact: Qualified for a Fifa'12 final round at National event (XBOX 360)  
+🔭 I’m currently working on SONiC (https://github.com/sonic-net)
+🌱 I’m currently learning Docker Engine, Kubernetes, Terraform, Ansible, Jenkins, GitHub Action, and AWS
+⚡ Fun fact: Musician (I play drums & guitars)
+⚡ Fun fact: Former Football player (Centre Middle Fielder) 
+⚡ Fun fact: Qualified for a Fifa'12 final round at National event (XBOX 360)  
 
 ## Career Highlights
 
@@ -26,7 +26,4 @@
 
 - 🌐 **Website**: wajahatrazi.com
 - 📧 **Email**: [wajahat37@gmail.com](mailto:wajahat37@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/wajahatrazimalik77](https://linkedin.com/in/wajahatrazimalik77)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/wajahatrazimalik77)
+- 🔗 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/wajahatrazimalik77)
