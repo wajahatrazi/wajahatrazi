@@ -8,11 +8,6 @@ Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONi
 - ⚡ Fun fact: Former Football player (Centre Middle Fielder) 
 - ⚡ Fun fact: Qualified for a Fifa'12 final round at National event (XBOX 360)  
 
-##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatrazi&show_icons=true&locale=en&layout=compact" alt="wajahatrazi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatrazi&" alt="wajahatrazi" /></p>
-
 ## Career Highlights
 
 - Authored 3 influential publications on SONiC’s microservices-based architecture for the Linux Foundation:
