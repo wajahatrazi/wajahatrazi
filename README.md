@@ -11,8 +11,6 @@ Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONi
 ## Tools
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatrazi&show_icons=true&locale=en&layout=compact" alt="wajahatrazi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahatrazi&show_icons=true&locale=en" alt="wajahatrazi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatrazi&" alt="wajahatrazi" /></p>
 
 ## Career Highlights
