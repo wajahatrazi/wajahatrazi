@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://www.pinterest.com/pin/55098795426137543/))]
 
 <h1 align="center">Hi, This is Wajahat Razi</h1>
 <h3 align="center">I am currently working as a Network Design Engineer specializing in SONiC (Software for Open Networking in the Cloud) at xFlow Research Inc. I have an aptitude for DevOps and Automation, which have become the backbone of modern infrastructure. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive on solving challenging problems and continuously learning new technologies.</h3>
