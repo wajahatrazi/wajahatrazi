@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I+am+Wajahat+Razi)](https://git.io/typing-svg)
 
-Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONiC (Software for Open Networking in the Cloud) was initially developed by Microsoft for its Azure Data Centers, now this project is running under the Linux Foundation. I have an aptitude for DevOps and Automation, which have become the backbone of modern infrastructure. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning new technologies.
+Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONiC (Software for Open Networking in the Cloud) was initially developed by Microsoft for its Azure Data Centers, now this project is running under the Linux Foundation. I have an aptitude for technology & software with an interest in DevOps and Automation. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning new technologies.
 
 ## 
 
