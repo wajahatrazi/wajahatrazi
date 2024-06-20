@@ -1,6 +1,11 @@
+##
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I+am+Wajahat+Razi)](https://git.io/typing-svg)
 
-Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONiC (Software for Open Networking in the Cloud) was initially developed by Microsoft for its Azure Data Centers, now this project is running under the Linux Foundation. I have an aptitude for technology & software with an interest in DevOps and Automation. With over 2 years of diverse experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning new technologies.
+- SONiC Network Design Engineer at xFlow Research Inc.
+	- SONiC (Software for Open Networking in the Cloud) is Network Operating System, it was initially developed by Microsoft for Azure Data Centers  but is operating under the Linux Foundation.
+- Aptitude for technology & software with an interest in DevOps and Automation.
+- 2+ years of experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning new technologies.
 
 ## 
 
@@ -29,6 +34,11 @@ Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONi
 ![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![image](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![image](https://img.shields.io/badge/GNS3-23B258?style=for-the-badge&logo=GNS3&logoColor=white)
+
 
 ## Career Highlights
 
