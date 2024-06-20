@@ -30,9 +30,6 @@ Currently working as a SONiC Network Design Engineer at xFlow Research Inc. SONi
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-##
-[![GitHub Streak](https://streak-stats.demolab.com?user=wajahatrazi&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ## Career Highlights
 
 - Authored 3 influential publications on SONiC’s microservices-based architecture for the Linux Foundation:
