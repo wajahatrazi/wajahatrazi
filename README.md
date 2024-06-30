@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I+am+Wajahat+Razi)](https://git.io/typing-svg)
 
 - SONiC Network Design Engineer at xFlow Research Inc.
-	- SONiC (Software for Open Networking in the Cloud) is a Network Operating System, it was initially developed by Microsoft for Azure Data Centers  but is operating under the Linux Foundation.
-- Aptitude for technology & software with an interest in DevOps and Automation.
-- 2+ years of experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning technologies.
+	- SONiC (Software for Open Networking in the Cloud) is a Network Operating System, Microsoft initially developed it for Azure Data Centers but it operates under the Linux Foundation.
+- Has an aptitude for technology & software with an interest in solving complex problems through learning new technologies, and DevOps (A core bridge between Code & Ops).
+- With 2+ years of experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning technologies.
 
 ## 
 
