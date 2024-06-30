@@ -4,7 +4,7 @@
 
 - SONiC Network Design Engineer at xFlow Research Inc.
 	- SONiC (Software for Open Networking in the Cloud) is a Network Operating System, Microsoft initially developed it for Azure Data Centers but it operates under the Linux Foundation.
-- Has an aptitude for technology & software with an interest in solving complex problems through learning new technologies, and DevOps (A core bridge between Code & Ops).
+- Has an aptitude for technology & software with an interest in Cloud Computing and DevOps (A core bridge between Code & Ops)
 - With 2+ years of experience ranging from NetOps to open-source contributions, I thrive in finding solutions to challenging assignments and continuously learning technologies.
 
 ## 
