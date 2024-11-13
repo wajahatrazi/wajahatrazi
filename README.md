@@ -1,6 +1,6 @@
 <p align="center">
   <strong>👋 Hi, I am Wajahat Razi</strong><br>
-  <strong>Network Software Engineer</strong> | <strong>Research</strong>🔹<strong>SONiC</strong>🔹<strong>DevOps</strong><br>
+  <strong>Network Software Engineer</strong> | <strong>Research</strong>🔹<strong>Cloud Networks</strong>🔹<strong>SONiC</strong>🔹<strong>Programming</strong><br>
 </p>
 
 <p align="center">
@@ -38,13 +38,16 @@
 
 ## 🔹Career Highlights
 
+- Participant (Category: Most innovative award) @ SONiC Hackathon 2024 (Team <strong>SONiC Scout AI</strong> - A RAG-based Application designed & developed to support SONiC Ecosystem and striving towards SONiC's adoption)
+  - https://sonic-scout-ai.streamlit.app/
+- Winner xFlow AI Hackathon @ automating usage of SONiC-CLI for SONiC Engineers leveraging the power of RAG 
 - Authored 3 influential publications on SONiC’s microservices-based containerized architecture under the Linux Foundation:
   - 🔗 [Demystifying SONiC](https://sonicfoundation.dev/demystifying-sonic-its-importance-in-modern-data-centers/)
   - 🔗 [Deep Dive into SONiC Architecture Design](https://sonicfoundation.dev/deep-dive-into-sonic-architecture-design/)
   - 🔗 [Becoming a Contributor to SONiC](https://sonicfoundation.dev/becoming-a-contributor-to-sonic/)
-- LiFT Scholar Cloud Captain  2024 & 2025
-- Collaborated on contributing towards enhancing the SONiC features & SONiC based products
-- Self-taught from scratch, learning new technologies, and executing projects.
+- LiFT Scholar Cloud Captain for Kubernetes 2024 & 2025
+- Led contributions to SONiC along with the development of products around SONiC
+- Self-taught technologist who loves learning and solving complex software riddles in Cloud Networks.
 
 
 ## 🔹Fun Facts
