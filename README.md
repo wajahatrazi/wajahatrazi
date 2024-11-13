@@ -60,6 +60,9 @@
 
 ## Would you like to know more about me?
 
+<strong>Click On:</strong>
+
+[![Resume](https://img.shields.io/badge/RESUME-1E90FF?style=for-the-badge&logoColor=white&labelColor=white)](https://github.com/wajahatrazi/resume)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajahat37@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajahatrazimalik77)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B923244677444&text&type=phone_number&app_absent=0)
