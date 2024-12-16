@@ -39,7 +39,7 @@
 ## 🔹Career Highlights
 
 - Participant (Category: Most innovative award) @ SONiC Hackathon 2024 (Team <strong>SONiC Scout AI</strong> - A RAG-based Application designed & developed to support SONiC Ecosystem and striving towards SONiC's adoption)
-  - https://sonic-scout-ai.streamlit.app/ or https://youtu.be/Suyj7dbmeI4?si=uUoLUmG_PESmiYab
+  - https://sonic-scout-ai.streamlit.app/ or [Link to Hackathon video @ SONiC](https://www.youtube.com/watch?v=7c85DKryUJk&list=PLl2k6cq72Mq0LWkg-Ye9rL_4Nji4rT4nm&ab_channel=SONiCFund)
 - Winner xFlow AI Hackathon @ automating usage of SONiC-CLI for SONiC Engineers leveraging the power of RAG 
 - Authored 3 influential publications on SONiC’s microservices-based containerized architecture under the Linux Foundation:
   - 🔗 [Demystifying SONiC](https://sonicfoundation.dev/demystifying-sonic-its-importance-in-modern-data-centers/)
